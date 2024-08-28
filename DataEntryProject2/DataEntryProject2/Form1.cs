@@ -96,6 +96,7 @@ namespace DataEntryProject2
             btnPause.Enabled = false;
             grbDataEntry.Enabled = false;
             timTimer.Enabled = false;
+            MessageBox.Show("pause button is clicked!");
         }
 
         private void txtTimer_TextChanged(object sender, EventArgs e)

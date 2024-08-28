@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataEntryProject2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7120d7dd4566863a6c550d4222497402d4d3be5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataEntryProject2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataEntryProject2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\DataEntryProject2\\DataEntryProject2.csproj": {}
+    "C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\DataEntryProject2\\DataEntryProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\DataEntryProject2\\DataEntryProject2.csproj": {
+    "C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\DataEntryProject2\\DataEntryProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\DataEntryProject2\\DataEntryProject2.csproj",
+        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\DataEntryProject2\\DataEntryProject2.csproj",
         "projectName": "DataEntryProject2",
-        "projectPath": "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\DataEntryProject2\\DataEntryProject2.csproj",
+        "projectPath": "C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\DataEntryProject2\\DataEntryProject2.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\DataEntryProject2\\obj\\",
+        "outputPath": "C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\DataEntryProject2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",

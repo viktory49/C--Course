@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\",
+  "WorkspaceRootPath": "C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{274685B9-09BB-4421-81E1-47DF913D5484}|DataEntryProject2\\DataEntryProject2.csproj|c:\\users\\vikto\\source\\repos\\dataentryproject2\\dataentryproject2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{274685B9-09BB-4421-81E1-47DF913D5484}|DataEntryProject2\\DataEntryProject2.csproj|c:\\users\\vikto\\onedrive\\desktop\\github repository for c# course\\c--course\\dataentryproject2\\dataentryproject2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{274685B9-09BB-4421-81E1-47DF913D5484}|DataEntryProject2\\DataEntryProject2.csproj|solutionrelative:dataentryproject2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274685B9-09BB-4421-81E1-47DF913D5484}|DataEntryProject2\\DataEntryProject2.csproj|C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\dataentryproject2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{274685B9-09BB-4421-81E1-47DF913D5484}|DataEntryProject2\\DataEntryProject2.csproj|C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\dataentryproject2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{274685B9-09BB-4421-81E1-47DF913D5484}|DataEntryProject2\\DataEntryProject2.csproj|solutionrelative:dataentryproject2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\DataEntryProject2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\DataEntryProject2\\Form1.cs",
               "RelativeDocumentMoniker": "DataEntryProject2\\Form1.cs",
-              "ToolTip": "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\DataEntryProject2\\Form1.cs",
+              "ToolTip": "C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\DataEntryProject2\\Form1.cs",
               "RelativeToolTip": "DataEntryProject2\\Form1.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAAAHgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwGIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T21:21:42.684Z",
               "IsPinned": true,
@@ -42,13 +42,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\DataEntryProject2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\OneDrive\\Desktop\\GitHub repository for C# Course\\C--Course\\DataEntryProject2\\DataEntryProject2\\Form1.cs",
               "RelativeDocumentMoniker": "DataEntryProject2\\Form1.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\DataEntryProject2\\DataEntryProject2\\Form1.cs [Design]",
-              "RelativeToolTip": "DataEntryProject2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\DataEntryProject2\\DataEntryProject2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:13:46.613Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-26T22:13:46.613Z"
             }
           ]
         }
