@@ -1,0 +1,17 @@
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\bin\Debug\net8.0-windows\DataEntryProject2.exe
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\bin\Debug\net8.0-windows\DataEntryProject2.deps.json
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\bin\Debug\net8.0-windows\DataEntryProject2.runtimeconfig.json
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\bin\Debug\net8.0-windows\DataEntryProject2.dll
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\bin\Debug\net8.0-windows\DataEntryProject2.pdb
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.csproj.GenerateResource.cache
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.AssemblyInfo.cs
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.dll
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\refint\DataEntryProject2.dll
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.pdb
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.genruntimeconfig.cache
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\ref\DataEntryProject2.dll
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.frmDataEntry.resources
+C:\Users\vikto\source\repos\DataEntryProject2\DataEntryProject2\obj\Debug\net8.0-windows\DataEntryProject2.Form2.resources
